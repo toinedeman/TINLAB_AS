@@ -17,7 +17,6 @@ FRAME_TOPIC = "robot/frame/dimensions"  # Topic for frame dimensions
 TARGET_POSITION_TOPICS = {1: "robot/targetpos/1", 2: "robot/targetpos/2", 3: "robot/targetpos/3"}
 
 # Movement Config
-# MIN_DISTANCE = 20
 ROBOT_LENGTH = 50
 MIN_ROBOT_DISTANCE = 100
 SAFETY_DISTANCE = 40
