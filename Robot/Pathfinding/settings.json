@@ -1,0 +1,14 @@
+{
+	"wifi_ssid" : "ssid",
+	"wifi_password" : "password",
+	"mqtt_broker" : "145.24.238.26",
+	"mqtt_broker_port" : 1883,
+	"left_velocity" : 22,
+	"right_velocity" : 30,
+	"ldr_min" : 5000,
+	"ldr_max" : 10000,
+	"duty_0" : 1700,
+	"duty_mid" : 5000,
+	"duty_max" : 9000
+}
+
